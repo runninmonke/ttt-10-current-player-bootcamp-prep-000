@@ -19,4 +19,3 @@ def current_player(board)
     "0"
   end
 end
-    
